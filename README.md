@@ -1,5 +1,7 @@
-Olá, me chamo Eduardo Motta, sou de Pelotas-RS.
-Atualmente sou dono de uma barbearia e sou barbeiro a 5 anos.
-Ja tenho curso de HTML, Redes, Técnico em manutenção de computadores e notebooks e estou cursando CSS, Javascript, Banco de Dados, NodeJs, TypeScript e ReactJs.
-Conforme vou criando alguns projetos irei colocando aqui!
-Até logo!!
+Me chamo Eduardo Motta;
+Sou um entusiasta da tecnologia com foco em Cloud Computing e AWS (Amazon Web Services). Atualmente, estou dedicando meus estudos para me tornar um profissional qualificado na área de nuvem, buscando constantemente aprimorar meus conhecimentos e habilidades.
+
+Tenho uma base sólida em HTML/CSS e manutenção técnica de computadores, o que me permite entender tanto a infraestrutura quanto o desenvolvimento de soluções tecnológicas. Principal objetivo é me especializar em arquitetura e implementação de soluções na nuvem, contribuindo para a transformação digital de empresas e projetos inovadores.
+
+Habilidades e Conhecimentos:
+Fundamentos de Cloud Computing e serviços AWS (EC2, S3, CloudFormation, VPC, IAM, etc.).
